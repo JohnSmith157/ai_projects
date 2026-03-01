@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "calculator": {
+            "command": "python",
+            "args": [
+                "c:/Users/Samuel/Documents/AI-automation/agentic-ai-bootcamp/mcp-servor/server.py"
+            ]
+        }
+    }
+}
